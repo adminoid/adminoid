@@ -4,4 +4,4 @@
 
 ### Most of my experience it's a frontend/fullstack web development
 
-#### My most loved for 2 side data binding frontend framework the Vue.js
+#### My most loved for 2 side data binding frontend framework is the Vue.js
